@@ -100,7 +100,8 @@ button:hover {
 
 /* Partials */
 .bg-img {
-  background-color: black;
+    background-image: url("../img/background/mapa.png");
+  background-color: #4d3149;
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
